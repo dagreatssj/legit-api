@@ -1,0 +1,42 @@
+{
+  "state": {
+    "on": false,
+    "bri": 254,
+    "alert": "none",
+    "mode": "homeautomation",
+    "reachable": true
+  },
+  "swupdate": {
+    "state": "noupdates",
+    "lastinstall": "2019"
+  },
+  "type": "light",
+  "name": "lamp",
+  "modelid": "11111",
+  "manufacturername": "yomomma",
+  "productname": "product",
+  "capabilities": {
+    "certified": true,
+    "control": {
+      "mindimlevel": 5000,
+      "maxlumen": 840
+    },
+    "streaming": {
+      "renderer": false,
+      "proxy": false
+    }
+  },
+  "config": {
+    "archetype": "archetype",
+    "function": "functional",
+    "direction": "omnidirectional",
+    "startup": {
+      "mode": "safety",
+      "configured": true
+    }
+  },
+  "uniqueid": "uniqueid",
+  "swversion": "1.46",
+  "swconfigid": "swconfigid",
+  "productid": "productid"
+}
