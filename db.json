@@ -2,27 +2,6 @@
   "state": {
     "on": false,
     "bri": 254,
-    "alert": "none",
-  },
-  "swupdate": {
-    "state": "noupdates",
-    "lastinstall": "2019"
-  },
-  "capabilities": {
-    "certified": true,
-    "control": {
-      "mindimlevel": 5000,
-      "maxlumen": 840
-    },
-    "streaming": {
-      "renderer": false,
-      "proxy": false
-    }
-  },
-  "config": {
-    "startup": {
-      "mode": "safety",
-      "configured": true
-    }
+    "alert": "none"
   }
 }
